@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rakanhaddad.github.io/rakanhaddad/sitemap.xml
